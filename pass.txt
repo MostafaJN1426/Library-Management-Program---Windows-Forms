@@ -1,0 +1,3 @@
+user name = admin
+
+pass  = 11111111
